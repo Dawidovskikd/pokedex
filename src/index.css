@@ -1,0 +1,21 @@
+.menu-btn{
+    width: 100%;
+    text-align: center;
+}
+
+.menu-btn_container{
+    padding: 10px;
+}
+
+.results{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-flow: wrap;
+    width: 100%;
+}
+
+.pokemon_container{
+    width: 30%;
+    min-width: 100px;
+}
